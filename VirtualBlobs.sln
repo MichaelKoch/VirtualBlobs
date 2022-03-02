@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualBlobs", "VirtualBlobs\VirtualBlobs.csproj", "{8D1C75AE-8988-4EBA-B26D-F67A96C8EA73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualBlobs.Provider.FileSystem", "VirtualBlobs.Provider.FileSystem\VirtualBlobs.Provider.FileSystem.csproj", "{969E877D-5357-4864-B117-B4292E586DAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9531F218-CA46-4CEE-AEDD-CE5717C84D9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9531F218-CA46-4CEE-AEDD-CE5717C84D9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9531F218-CA46-4CEE-AEDD-CE5717C84D9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9531F218-CA46-4CEE-AEDD-CE5717C84D9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D1C75AE-8988-4EBA-B26D-F67A96C8EA73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D1C75AE-8988-4EBA-B26D-F67A96C8EA73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D1C75AE-8988-4EBA-B26D-F67A96C8EA73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D1C75AE-8988-4EBA-B26D-F67A96C8EA73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{969E877D-5357-4864-B117-B4292E586DAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{969E877D-5357-4864-B117-B4292E586DAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{969E877D-5357-4864-B117-B4292E586DAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{969E877D-5357-4864-B117-B4292E586DAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
